@@ -7,3 +7,4 @@ that is very common in Fraud Detection.
 <br><b>List of Files</b><br>
 <ul>
 <li><i><a href="https://github.com/drray30/MachineLearning/blob/master/FraudDetection/FWBexploratory.ipynb"> "Jupyter notebook for basic data exploration" </a> </i>. This notebook demonstrates a start to finish process of exploring and running machine learning model on a sample data given in data.csv file.</li><br>
+<li><i><a href="https://github.com/drray30/MachineLearning/blob/master/FraudDetection/FraudDetectionMLmodels.ipynb"> "Jupyter notebook for ML models" </a> </i>. This notebook demonstrates a start to finish process of quickly running various machine learning models including XGBoost and CatBoost on a sample data given in data.csv file.</li><br>
